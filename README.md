@@ -2,20 +2,20 @@
 ## Build Setup
 
 ```bash
-# clone the project
-git clone https://github.com/PanJiaChen/vue-admin-template.git
+# 克隆项目
+git clone https://github.com/MatureLove/vue-.git
 
 # enter the project directory
 cd vue-admin-template
 
-# install dependency
+# 安装依赖
 npm install
 
-# develop
+# 运行
 npm run dev
 ```
 
-This will automatically open http://localhost:9528
+这将自动打开 http://localhost:9528
 
 ## Build
 
